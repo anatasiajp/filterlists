@@ -96,3 +96,4 @@ www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text
 
 ! Hide Video Overlay - endscreen
 ||www.youtube.com/s/player/*/player_ias.vflset/*/endscreen.js^$script
+*##*:style(border-radius:unset!important;box-shadow:unset!important;text-shadow:unset!important;text-transform:unset!important;animation-iteration-count:1!important;scroll-behavior:unset!important;moz-animation-iteration-count:1!important;webkit-animation-iteration-count:1!important;backdrop-filter:unset!important;filter:unset!important;animation-timing-function:step-start!important;transition-timing-function:step-start!important;filter:none!important;text-rendering:none!important;clip-path:unset!important;image-rendering:crisp-edges;outline:unset)
